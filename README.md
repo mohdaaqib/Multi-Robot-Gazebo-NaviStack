@@ -34,6 +34,7 @@ If you haven't seen error the Gazebo environment should launch. Then type below 
  ```
 roslaunch turtlebot3_navigation multi_turtlebot3_navigation.launch
 ```
+I think the  multi_turtlebot3_navigation.launch file is missing from the package.
 
 ![RVIZ Environment](./img/rviz.PNG)
 Then click right on "2D nav Goal"  and add "Tool Properties" as new panel to RVIZ.
